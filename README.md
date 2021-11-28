@@ -1,5 +1,7 @@
 # SARS-CoV-2-Deer-Mutations
-A preliminary analysis of mutations in Odocoileus virginianus, white tailed deer
+A preliminary analysis of mutations in Odocoileus virginianus, white tailed deer.
+
+All data is available from GISAID https://www.gisaid.org/
 
 To recreate the output tables, follow these steps.
 
