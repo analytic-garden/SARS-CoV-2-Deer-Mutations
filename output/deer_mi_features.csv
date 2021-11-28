@@ -1,0 +1,42 @@
+alignment columns,reference positions,A,C,G,T,insertions,other,ref_nucleotide,consensus_nucleotide,consensus %,alt_nucleotide,feature_type,codon,ref_aa,alt_codons,alt_aas,aa_pos,mutation,product,notes
+10319,10319,0,45,0,52,0,5,C,b'T',53.608247422680414,T,mat_peptide,CTT,L,TTT,F,89.0,L89F,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+25914,25907,0,0,42,53,0,7,G,b'T',55.78947368421052,T,CDS,GGT,G,GTT,V,172.0,G172V,ORF3a protein,
+28481,28472,0,42,0,57,0,3,C,b'T',57.57575757575758,T,CDS,CCT,P,TCT,S,67.0,P67S,nucleocapsid phosphoprotein,ORF9; structural protein
+27971,27964,0,45,0,54,0,3,C,b'T',54.54545454545454,T,CDS,TCA,S,TTA,L,24.0,S24L,ORF8 protein,
+204,204,0,0,78,22,0,2,G,b'G',78.0,T,5'UTR,,,,,68.0,,,
+25004,24997,78,0,22,0,0,2,A,b'A',78.0,G,CDS,TTA,L,TTG,L,1145.0,L1145L,surface glycoprotein,structural protein; spike protein
+12528,12525,0,81,0,20,0,1,C,b'C',80.19801980198021,T,mat_peptide,ACA,T,ATA,I,145.0,T145I,nsp8,produced by both pp1a and pp1ab
+13668,13665,0,79,0,21,0,2,C,b'C',79.0,T,mat_peptide,CAC,H,CAT,H,66.0,H66H,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+11922,11919,0,79,0,23,0,0,C,b'C',77.45098039215686,T,mat_peptide,TCT,S,TTT,F,26.0,S26F,nsp7,produced by both pp1a and pp1ab
+12740,12737,76,0,22,0,0,4,A,b'A',77.55102040816327,G,mat_peptide,ACT,T,GCT,A,18.0,T18A,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+28902,28893,0,81,0,19,0,2,C,b'C',81.0,T,CDS,CCT,P,CTT,L,207.0,P207L,nucleocapsid phosphoprotein,ORF9; structural protein
+11197,11195,0,80,0,22,0,0,C,b'C',78.43137254901961,T,mat_peptide,CTT,L,TTT,F,75.0,L75F,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+19184,19180,0,0,80,19,0,3,G,b'G',80.8080808080808,T,mat_peptide,GTA,V,TTA,L,381.0,V381L,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+21782,21776,19,0,80,0,0,3,G,b'G',80.8080808080808,A,CDS,GGG,G,AGG,R,72.0,G72R,surface glycoprotein,structural protein; spike protein
+12795,12792,79,0,0,21,0,2,A,b'A',79.0,T,mat_peptide,AAG,K,ATG,M,36.0,K36M,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+18428,18424,51,0,46,0,0,5,A,b'A',52.57731958762887,G,mat_peptide,AAT,N,GAT,D,129.0,N129D,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+5011,5011,81,21,0,0,0,0,A,b'A',79.41176470588235,C,mat_peptide,CAA,Q,CAC,H,764.0,Q764H,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+9391,9391,0,81,0,19,0,2,C,b'C',81.0,T,mat_peptide,GAC,D,GAT,D,279.0,D279D,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+10704,10702,0,81,0,16,0,5,C,b'C',83.50515463917526,T,mat_peptide,GAC,D,GAT,D,216.0,D216D,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+28878,28869,0,49,0,49,0,4,C,b'C',50.0,T,CDS,CCA,P,CTA,L,199.0,P199L,nucleocapsid phosphoprotein,ORF9; structural protein
+1911,1911,19,82,0,0,0,1,C,b'C',81.1881188118812,A,mat_peptide,TCC,S,TAC,Y,369.0,S369Y,nsp2,produced by both pp1a and pp1ab
+1912,1912,0,81,0,20,0,1,C,b'C',80.19801980198021,T,mat_peptide,TCC,S,TCT,S,369.0,S369S,nsp2,produced by both pp1a and pp1ab
+9510,9510,0,81,0,21,0,0,C,b'C',79.41176470588235,T,mat_peptide,ACT,T,ATT,I,319.0,T319I,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+28686,28677,0,82,0,18,0,2,C,b'C',82.0,T,CDS,ACT,T,ATT,I,135.0,T135I,nucleocapsid phosphoprotein,ORF9; structural protein
+27927,27920,0,80,0,21,0,1,C,b'C',79.20792079207921,T,CDS,ATC,I,ATT,I,9.0,I9I,ORF8 protein,
+28308,28300,0,0,83,18,0,1,G,b'G',82.17821782178217,T,CDS,CAG,Q,CAT,H,9.0,Q9H,nucleocapsid phosphoprotein,ORF9; structural protein
+14121,14118,0,0,81,21,0,0,G,b'G',79.41176470588235,T,mat_peptide,ACG,T,ACT,T,217.0,T217T,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+29772,29762,0,82,0,18,0,2,C,b'C',82.0,T,stem_loop,ACA,T,ATA,I,12.0,T12I,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+18907,18903,22,0,79,0,0,1,G,b'G',78.21782178217822,A,mat_peptide,AAG,K,AAA,K,288.0,K288K,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+1348,1348,0,69,0,26,0,7,C,b'C',72.63157894736842,T,mat_peptide,CCC,P,CCT,P,181.0,P181P,nsp2,produced by both pp1a and pp1ab
+18748,18744,0,79,0,21,0,2,C,b'C',79.0,T,mat_peptide,TAC,Y,TAT,Y,235.0,Y235Y,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+11574,11572,0,77,0,24,0,1,C,b'C',76.23762376237624,T,mat_peptide,TTC,F,TTT,F,200.0,F200F,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+20264,20259,0,81,0,19,0,2,C,b'C',81.0,T,mat_peptide,TTC,F,TTT,F,213.0,F213F,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+9711,9711,0,70,0,27,0,5,C,b'C',72.16494845360825,T,mat_peptide,TCC,S,TTC,F,386.0,S386F,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+24239,24232,82,0,20,0,0,0,A,b'A',80.3921568627451,G,CDS,GCA,A,GCG,A,890.0,A890A,surface glycoprotein,structural protein; spike protein
+21310,21304,3,44,0,48,0,7,C,b'T',50.526315789473685,T,mat_peptide,CGC,R,TGC,C,216.0,R216C,2'-O-ribose methyltransferase,nsp16_OMT; 2'-o-MT; produced by pp1ab only
+5822,5822,0,76,0,26,0,0,C,b'C',74.50980392156863,T,mat_peptide,CTT,L,TTT,F,1035.0,L1035F,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+29455,29445,0,70,0,26,0,6,C,b'C',72.91666666666666,T,CDS,ACT,T,ATT,I,391.0,T391I,nucleocapsid phosphoprotein,ORF9; structural protein
+1059,1059,0,16,0,85,0,1,C,b'T',84.15841584158416,T,mat_peptide,ACC,T,ATC,I,85.0,T85I,nsp2,produced by both pp1a and pp1ab
+20273,20268,85,0,17,0,0,0,A,b'A',83.33333333333334,G,mat_peptide,TTA,L,TTG,L,216.0,L216L,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+25570,25563,0,0,18,79,0,5,G,b'T',81.44329896907216,T,CDS,CAG,Q,CAT,H,57.0,Q57H,ORF3a protein,

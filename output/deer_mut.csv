@@ -1,0 +1,538 @@
+alignment columns,reference positions,A,C,G,T,insertions,other,ref_nucleotide,consensus_nucleotide,consensus %,alt_nucleotide,feature_type,codon,ref_aa,alt_codons,alt_aas,aa_pos,mutation,product,notes
+39,39,97,0,0,0,5,0,A,A,95.09803921568627,-,5'UTR,,,,,13.0,,,
+40,40,0,99,0,0,3,0,C,C,97.05882352941177,-,5'UTR,,,,,14.0,,,
+41,41,0,0,0,99,3,0,T,T,97.05882352941177,-,5'UTR,,,,,14.0,,,
+42,42,0,0,0,99,3,0,T,T,97.05882352941177,-,5'UTR,,,,,14.0,,,
+43,43,0,0,0,99,3,0,T,T,97.05882352941177,-,5'UTR,,,,,15.0,,,
+44,44,0,99,0,0,3,0,C,C,97.05882352941177,-,5'UTR,,,,,15.0,,,
+45,45,0,0,99,0,3,0,G,G,97.05882352941177,-,5'UTR,,,,,15.0,,,
+46,46,100,0,0,0,2,0,A,A,98.0392156862745,-,5'UTR,,,,,16.0,,,
+47,47,0,0,0,101,1,0,T,T,99.01960784313727,-,5'UTR,,,,,16.0,,,
+100,100,0,101,0,1,0,0,C,C,99.01960784313727,T,5'UTR,,,,,34.0,,,
+203,203,0,97,0,4,0,1,C,C,96.03960396039604,T,5'UTR,,,,,68.0,,,
+204,204,0,0,78,22,0,2,G,G,78.0,T,5'UTR,,,,,68.0,,,
+210,210,0,0,98,4,0,0,G,G,96.07843137254902,T,5'UTR,,,,,70.0,,,
+241,241,3,1,0,98,0,0,C,T,96.07843137254902,T,5'UTR,,,,,81.0,,,
+508,508,0,0,0,97,5,0,T,T,95.09803921568627,-,mat_peptide,CAT,H,CA-,,81.0,H81del,leader protein,nsp1; produced by both pp1a and pp1ab
+509,509,0,0,97,0,5,0,G,G,95.09803921568627,-,mat_peptide,GGT,G,-GT,,82.0,G82del,leader protein,nsp1; produced by both pp1a and pp1ab
+510,510,0,0,97,0,5,0,G,G,95.09803921568627,-,mat_peptide,GGT,G,G-T,,82.0,G82del,leader protein,nsp1; produced by both pp1a and pp1ab
+511,511,0,0,0,97,5,0,T,T,95.09803921568627,-,mat_peptide,GGT,G,GG-,,82.0,G82del,leader protein,nsp1; produced by both pp1a and pp1ab
+512,512,0,97,0,0,5,0,C,C,95.09803921568627,-,mat_peptide,CAT,H,-AT,,83.0,H83del,leader protein,nsp1; produced by both pp1a and pp1ab
+513,513,97,0,0,0,5,0,A,A,95.09803921568627,-,mat_peptide,CAT,H,C-T,,83.0,H83del,leader protein,nsp1; produced by both pp1a and pp1ab
+514,514,0,0,0,97,5,0,T,T,95.09803921568627,-,mat_peptide,CAT,H,CA-,,83.0,H83del,leader protein,nsp1; produced by both pp1a and pp1ab
+515,515,0,0,96,0,6,0,G,G,94.11764705882352,-,mat_peptide,GTT,V,-TT,,84.0,V84del,leader protein,nsp1; produced by both pp1a and pp1ab
+516,516,0,0,0,94,8,0,T,T,92.15686274509804,-,mat_peptide,GTT,V,G-T,,84.0,V84del,leader protein,nsp1; produced by both pp1a and pp1ab
+517,517,0,0,0,94,8,0,T,T,92.15686274509804,-,mat_peptide,GTT,V,GT-,,84.0,V84del,leader protein,nsp1; produced by both pp1a and pp1ab
+518,518,94,0,0,0,8,0,A,A,92.15686274509804,-,mat_peptide,ATG,M,-TG,,85.0,M85del,leader protein,nsp1; produced by both pp1a and pp1ab
+519,519,0,0,0,96,6,0,T,T,94.11764705882352,-,mat_peptide,ATG,M,A-G,,85.0,M85del,leader protein,nsp1; produced by both pp1a and pp1ab
+520,520,0,0,96,0,6,0,G,G,94.11764705882352,-,mat_peptide,ATG,M,AT-,,85.0,M85del,leader protein,nsp1; produced by both pp1a and pp1ab
+521,521,0,0,97,0,5,0,G,G,95.09803921568627,-,mat_peptide,GTT,V,-TT,,86.0,V86del,leader protein,nsp1; produced by both pp1a and pp1ab
+522,522,0,0,0,97,5,0,T,T,95.09803921568627,-,mat_peptide,GTT,V,G-T,,86.0,V86del,leader protein,nsp1; produced by both pp1a and pp1ab
+580,580,1,0,0,101,0,0,T,T,99.01960784313727,A,mat_peptide,GGT,G,GGA,G,105.0,G105G,leader protein,nsp1; produced by both pp1a and pp1ab
+673,673,0,100,0,1,0,1,C,C,99.00990099009901,T,mat_peptide,TAC,Y,TAT,Y,136.0,Y136Y,leader protein,nsp1; produced by both pp1a and pp1ab
+686,686,100,0,0,0,2,0,A,A,98.0392156862745,-,mat_peptide,AAG,K,-AG,,141.0,K141del,leader protein,nsp1; produced by both pp1a and pp1ab
+687,687,100,0,0,0,2,0,A,A,98.0392156862745,-,mat_peptide,AAG,K,A-G,,141.0,K141del,leader protein,nsp1; produced by both pp1a and pp1ab
+688,688,0,0,100,0,2,0,G,G,98.0392156862745,-,mat_peptide,AAG,K,AA-,,141.0,K141del,leader protein,nsp1; produced by both pp1a and pp1ab
+689,689,0,0,0,100,2,0,T,T,98.0392156862745,-,mat_peptide,TCA,S,-CA,,142.0,S142del,leader protein,nsp1; produced by both pp1a and pp1ab
+690,690,0,100,0,0,2,0,C,C,98.0392156862745,-,mat_peptide,TCA,S,T-A,,142.0,S142del,leader protein,nsp1; produced by both pp1a and pp1ab
+691,691,100,0,0,0,2,0,A,A,98.0392156862745,-,mat_peptide,TCA,S,TC-,,142.0,S142del,leader protein,nsp1; produced by both pp1a and pp1ab
+692,692,0,0,0,100,2,0,T,T,98.0392156862745,-,mat_peptide,TTT,F,-TT,,143.0,F143del,leader protein,nsp1; produced by both pp1a and pp1ab
+693,693,0,0,0,100,2,0,T,T,98.0392156862745,-,mat_peptide,TTT,F,T-T,,143.0,F143del,leader protein,nsp1; produced by both pp1a and pp1ab
+694,694,0,0,0,100,2,0,T,T,98.0392156862745,-,mat_peptide,TTT,F,TT-,,143.0,F143del,leader protein,nsp1; produced by both pp1a and pp1ab
+751,751,0,99,0,3,0,0,C,C,97.05882352941177,T,mat_peptide,AAC,N,AAT,N,162.0,N162N,leader protein,nsp1; produced by both pp1a and pp1ab
+847,847,0,1,0,101,0,0,T,T,99.01960784313727,C,mat_peptide,GAT,D,GAC,D,14.0,D14D,nsp2,produced by both pp1a and pp1ab
+925,925,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,GAC,D,GAT,D,40.0,D40D,nsp2,produced by both pp1a and pp1ab
+1059,1059,0,16,0,85,0,1,C,T,84.15841584158416,T,mat_peptide,ACC,T,ATC,I,85.0,T85I,nsp2,produced by both pp1a and pp1ab
+1134,1134,101,0,1,0,0,0,A,A,99.01960784313727,G,mat_peptide,AAG,K,AGG,R,110.0,K110R,nsp2,produced by both pp1a and pp1ab
+1141,1141,0,1,101,0,0,0,G,G,99.01960784313727,C,mat_peptide,AAG,K,AAC,N,112.0,K112N,nsp2,produced by both pp1a and pp1ab
+1170,1170,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,TCT,S,TAT,Y,122.0,S122Y,nsp2,produced by both pp1a and pp1ab
+1285,1285,0,1,0,101,0,0,T,T,99.01960784313727,C,mat_peptide,ACT,T,ACC,T,160.0,T160T,nsp2,produced by both pp1a and pp1ab
+1292,1292,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TTT,F,-TT,,163.0,F163del,nsp2,produced by both pp1a and pp1ab
+1314,1314,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACT,T,ATT,I,170.0,T170I,nsp2,produced by both pp1a and pp1ab
+1348,1348,0,69,0,26,0,7,C,C,72.63157894736842,T,mat_peptide,CCC,P,CCT,P,181.0,P181P,nsp2,produced by both pp1a and pp1ab
+1358,1358,1,0,101,0,0,0,G,G,99.01960784313727,A,mat_peptide,GTT,V,ATT,I,185.0,V185I,nsp2,produced by both pp1a and pp1ab
+1379,1379,1,0,101,0,0,0,G,G,99.01960784313727,A,mat_peptide,GCA,A,ACA,T,192.0,A192T,nsp2,produced by both pp1a and pp1ab
+1385,1385,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,CAC,H,TAC,Y,194.0,H194Y,nsp2,produced by both pp1a and pp1ab
+1471,1471,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,CGC,R,CGT,R,222.0,R222R,nsp2,produced by both pp1a and pp1ab
+1487,1487,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,GGC,G,TGC,C,228.0,G228C,nsp2,produced by both pp1a and pp1ab
+1520,1520,101,0,1,0,0,0,A,A,99.01960784313727,G,mat_peptide,AAG,K,GAG,E,239.0,K239E,nsp2,produced by both pp1a and pp1ab
+1585,1585,101,0,0,1,0,0,A,A,99.01960784313727,T,mat_peptide,GGA,G,GGT,G,260.0,G260G,nsp2,produced by both pp1a and pp1ab
+1652,1652,100,0,2,0,0,0,A,A,98.0392156862745,G,mat_peptide,ATT,I,GTT,V,283.0,I283V,nsp2,produced by both pp1a and pp1ab
+1664,1664,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TTT,F,-TT,,287.0,F287del,nsp2,produced by both pp1a and pp1ab
+1724,1724,0,0,1,101,0,0,T,T,99.01960784313727,G,mat_peptide,TTT,F,GTT,V,307.0,F307V,nsp2,produced by both pp1a and pp1ab
+1911,1911,19,82,0,0,0,1,C,C,81.1881188118812,A,mat_peptide,TCC,S,TAC,Y,369.0,S369Y,nsp2,produced by both pp1a and pp1ab
+1912,1912,0,81,0,20,0,1,C,C,80.19801980198021,T,mat_peptide,TCC,S,TCT,S,369.0,S369S,nsp2,produced by both pp1a and pp1ab
+1927,1927,5,0,0,97,0,0,T,T,95.09803921568627,A,mat_peptide,ACT,T,ACA,T,374.0,T374T,nsp2,produced by both pp1a and pp1ab
+1997,1997,0,97,0,5,0,0,C,C,95.09803921568627,T,mat_peptide,CTG,L,TTG,L,398.0,L398L,nsp2,produced by both pp1a and pp1ab
+2001,2001,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,AGA,R,ATA,I,399.0,R399I,nsp2,produced by both pp1a and pp1ab
+2047,2047,0,1,0,101,0,0,T,T,99.01960784313727,C,mat_peptide,AAT,N,AAC,N,414.0,N414N,nsp2,produced by both pp1a and pp1ab
+2106,2106,0,97,0,5,0,0,C,C,95.09803921568627,T,mat_peptide,ACT,T,ATT,I,434.0,T434I,nsp2,produced by both pp1a and pp1ab
+2113,2113,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ATC,I,ATT,I,436.0,I436I,nsp2,produced by both pp1a and pp1ab
+2118,2118,0,1,101,0,0,0,G,G,99.01960784313727,C,mat_peptide,GGC,G,GCC,A,438.0,G438A,nsp2,produced by both pp1a and pp1ab
+2173,2173,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,AAG,K,AAT,N,456.0,K456N,nsp2,produced by both pp1a and pp1ab
+2182,2182,101,0,1,0,0,0,A,A,99.01960784313727,G,mat_peptide,GTA,V,GTG,V,459.0,V459V,nsp2,produced by both pp1a and pp1ab
+2258,2258,5,0,94,0,0,3,G,G,94.94949494949495,A,mat_peptide,GTC,V,ATC,I,485.0,V485I,nsp2,produced by both pp1a and pp1ab
+2388,2388,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACA,T,ATA,I,528.0,T528I,nsp2,produced by both pp1a and pp1ab
+2485,2485,0,100,0,1,0,1,C,C,99.00990099009901,T,mat_peptide,ATC,I,ATT,I,560.0,I560I,nsp2,produced by both pp1a and pp1ab
+2518,2518,0,0,94,5,0,3,G,G,94.94949494949495,T,mat_peptide,GTG,V,GTT,V,571.0,V571V,nsp2,produced by both pp1a and pp1ab
+2595,2595,0,97,0,5,0,0,C,C,95.09803921568627,T,mat_peptide,CCA,P,CTA,L,597.0,P597L,nsp2,produced by both pp1a and pp1ab
+2668,2668,0,97,0,5,0,0,C,C,95.09803921568627,T,mat_peptide,GCC,A,GCT,A,621.0,A621A,nsp2,produced by both pp1a and pp1ab
+2695,2695,0,99,0,3,0,0,C,C,97.05882352941177,T,mat_peptide,AAC,N,AAT,N,630.0,N630N,nsp2,produced by both pp1a and pp1ab
+2947,2947,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,GGC,G,GGT,G,76.0,G76G,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+3037,3037,0,1,0,101,0,0,C,T,99.01960784313727,T,mat_peptide,TTC,F,TTT,F,106.0,F106F,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+3242,3242,3,0,98,0,0,1,G,G,97.02970297029702,A,mat_peptide,GGC,G,AGC,S,175.0,G175S,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+3878,3878,0,0,101,0,1,0,G,G,99.01960784313727,-,mat_peptide,GAG,E,-AG,,387.0,E387del,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+3879,3879,101,0,0,0,1,0,A,A,99.01960784313727,-,mat_peptide,GAG,E,G-G,,387.0,E387del,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+3880,3880,0,0,101,0,1,0,G,G,99.01960784313727,-,mat_peptide,GAG,E,GA-,,387.0,E387del,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+4181,4181,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,GCT,A,TCT,S,488.0,A488S,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+4205,4205,5,0,94,0,0,3,G,G,94.94949494949495,A,mat_peptide,GCG,A,ACG,T,496.0,A496T,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+4230,4230,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACA,T,ATA,I,504.0,T504I,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+4238,4238,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TAT,Y,-AT,,507.0,Y507del,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+4239,4239,101,0,0,0,1,0,A,A,99.01960784313727,-,mat_peptide,TAT,Y,T-T,,507.0,Y507del,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+4379,4379,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TCT,S,-CT,,554.0,S554del,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+4380,4380,0,101,0,0,1,0,C,C,99.01960784313727,-,mat_peptide,TCT,S,T-T,,554.0,S554del,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+4415,4415,1,0,101,0,0,0,G,G,99.01960784313727,A,mat_peptide,GAA,E,AAA,K,566.0,E566K,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+4540,4540,0,99,0,2,0,1,C,C,98.01980198019803,T,mat_peptide,TAC,Y,TAT,Y,607.0,Y607Y,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+5011,5011,81,21,0,0,0,0,A,A,79.41176470588235,C,mat_peptide,CAA,Q,CAC,H,764.0,Q764H,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+5183,5183,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,CCT,P,TCT,S,822.0,P822S,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+5184,5184,0,96,0,4,0,2,C,C,96.0,T,mat_peptide,CCT,P,CTT,L,822.0,P822L,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+5310,5310,0,99,0,3,0,0,C,C,97.05882352941177,T,mat_peptide,ACA,T,ATA,I,864.0,T864I,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+5365,5365,0,99,0,3,0,0,C,C,97.05882352941177,T,mat_peptide,TAC,Y,TAT,Y,882.0,Y882Y,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+5544,5544,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACA,T,ATA,I,942.0,T942I,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+5584,5584,99,0,3,0,0,0,A,A,97.05882352941177,G,mat_peptide,ACA,T,ACG,T,955.0,T955T,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+5812,5812,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,GAC,D,GAT,D,1031.0,D1031D,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+5822,5822,0,76,0,26,0,0,C,C,74.50980392156863,T,mat_peptide,CTT,L,TTT,F,1035.0,L1035F,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+5852,5852,97,0,5,0,0,0,A,A,95.09803921568627,G,mat_peptide,ATT,I,GTT,V,1045.0,I1045V,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+5884,5884,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,TAC,Y,TAT,Y,1055.0,Y1055Y,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6031,6031,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,AAC,N,AAT,N,1104.0,N1104N,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6043,6043,0,2,0,100,0,0,T,T,98.0392156862745,C,mat_peptide,GAT,D,GAC,D,1108.0,D1108D,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6441,6441,93,0,6,0,0,3,A,A,93.93939393939394,G,mat_peptide,AAA,K,AGA,R,1241.0,K1241R,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6539,6539,0,98,0,4,0,0,C,C,96.07843137254902,T,mat_peptide,CAC,H,TAC,Y,1274.0,H1274Y,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6565,6565,101,0,1,0,0,0,A,A,99.01960784313727,G,mat_peptide,GTA,V,GTG,V,1282.0,V1282V,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6646,6646,101,0,1,0,0,0,A,A,99.01960784313727,G,mat_peptide,TTA,L,TTG,L,1309.0,L1309L,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6726,6726,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,ACT,T,ATT,I,1336.0,T1336I,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6730,6730,0,88,0,10,0,4,C,C,89.79591836734694,T,mat_peptide,AAC,N,AAT,N,1337.0,N1337N,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6822,6822,0,101,0,0,1,0,C,C,99.01960784313727,-,mat_peptide,ACA,T,A-A,,1368.0,T1368del,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6896,6896,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,CTA,L,TTA,L,1393.0,L1393L,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6936,6936,0,97,0,2,0,3,C,C,97.97979797979798,T,mat_peptide,TCT,S,TTT,F,1406.0,S1406F,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6990,6990,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,TCT,S,TTT,F,1424.0,S1424F,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+6997,6997,0,99,0,3,0,0,C,C,97.05882352941177,T,mat_peptide,ATC,I,ATT,I,1426.0,I1426I,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7029,7029,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,TCT,S,TTT,F,1437.0,S1437F,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7104,7104,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,ACC,T,ATC,I,1462.0,T1462I,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7113,7113,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACT,T,ATT,I,1465.0,T1465I,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7164,7164,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACC,T,ATC,I,1482.0,T1482I,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7173,7173,0,100,0,1,0,1,C,C,99.00990099009901,T,mat_peptide,TCT,S,TTT,F,1485.0,S1485F,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7267,7267,0,99,0,2,0,1,C,C,98.01980198019803,T,mat_peptide,TTC,F,TTT,F,1516.0,F1516F,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7279,7279,0,95,0,5,0,2,C,C,95.0,T,mat_peptide,TTC,F,TTT,F,1520.0,F1520F,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7303,7303,0,69,0,27,0,6,C,C,71.875,T,mat_peptide,ATC,I,ATT,I,1528.0,I1528I,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7389,7389,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,GCC,A,GTC,V,1557.0,A1557V,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7390,7390,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,GCC,A,GCT,A,1557.0,A1557A,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7393,7393,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,CCG,P,CCT,P,1558.0,P1558P,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7417,7417,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,TAC,Y,TAT,Y,1566.0,Y1566Y,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7528,7528,0,99,0,3,0,0,C,C,97.05882352941177,T,mat_peptide,GTC,V,GTT,V,1603.0,V1603V,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+7573,7573,0,94,0,2,0,6,C,C,97.91666666666666,T,mat_peptide,GTC,V,GTT,V,1618.0,V1618V,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+8083,8083,15,0,80,0,0,7,G,G,84.21052631578947,A,mat_peptide,ATG,M,ATA,I,1788.0,M1788I,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+8140,8140,0,95,0,6,0,1,C,C,94.05940594059405,T,mat_peptide,TCC,S,TCT,S,1807.0,S1807S,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+8158,8158,0,1,0,101,0,0,T,T,99.01960784313727,C,mat_peptide,TCT,S,TCC,S,1813.0,S1813S,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+8251,8251,0,99,0,2,0,1,C,C,98.01980198019803,T,mat_peptide,GAC,D,GAT,D,1844.0,D1844D,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+8290,8290,0,96,0,5,0,1,C,C,95.04950495049505,T,mat_peptide,CTC,L,CTT,L,1857.0,L1857L,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+8326,8326,0,98,0,4,0,0,C,C,96.07843137254902,T,mat_peptide,GAC,D,GAT,D,1869.0,D1869D,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+8384,8384,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,CAC,H,AAC,N,1889.0,H1889N,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+8389,8389,0,96,0,4,0,2,C,C,96.0,T,mat_peptide,AAC,N,AAT,N,1890.0,N1890N,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+8502,8502,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,ACT,T,ATT,I,1928.0,T1928I,nsp3,"""former nsp1; conserved domains are: N-terminal acidic (Ac), predicted phosphoesterase, papain-like proteinase, Y-domain, transmembrane domain 1 (TM1), adenosine diphosphate-ribose 1''-phosphatase (ADRP); produced by both pp1a and pp1ab"""
+8591,8591,3,0,99,0,0,0,G,G,97.05882352941177,A,mat_peptide,GTT,V,ATT,I,13.0,V13I,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8621,8621,101,0,0,1,0,0,A,A,99.01960784313727,T,mat_peptide,ATT,I,TTT,F,23.0,I23F,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8683,8683,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ATC,I,ATT,I,43.0,I43I,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8765,8765,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TTT,F,-TT,,71.0,F71del,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8766,8766,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TTT,F,T-T,,71.0,F71del,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8767,8767,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TTT,F,TT-,,71.0,F71del,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8768,8768,0,0,101,0,1,0,G,G,99.01960784313727,-,mat_peptide,GAC,D,-AC,,72.0,D72del,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8769,8769,101,0,0,0,1,0,A,A,99.01960784313727,-,mat_peptide,GAC,D,G-C,,72.0,D72del,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8770,8770,0,101,0,0,1,0,C,C,99.01960784313727,-,mat_peptide,GAC,D,GA-,,72.0,D72del,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8771,8771,101,0,0,0,1,0,A,A,99.01960784313727,-,mat_peptide,ACA,T,-CA,,73.0,T73del,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8772,8772,0,101,0,0,1,0,C,C,99.01960784313727,-,mat_peptide,ACA,T,A-A,,73.0,T73del,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8773,8773,101,0,0,0,1,0,A,A,99.01960784313727,-,mat_peptide,ACA,T,AC-,,73.0,T73del,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8774,8774,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TGG,W,-GG,,74.0,W74del,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8775,8775,0,0,101,0,1,0,G,G,99.01960784313727,-,mat_peptide,TGG,W,T-G,,74.0,W74del,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8776,8776,0,0,101,0,1,0,G,G,99.01960784313727,-,mat_peptide,TGG,W,TG-,,74.0,W74del,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8982,8982,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACT,T,ATT,I,143.0,T143I,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+8986,8986,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,GAC,D,GAT,D,144.0,D144D,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9053,9053,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,GTA,V,TTA,L,167.0,V167L,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9090,9090,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,TCT,S,TAT,Y,179.0,S179Y,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9204,9204,96,0,6,0,0,0,A,A,94.11764705882352,G,mat_peptide,GAT,D,GGT,G,217.0,D217G,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9286,9286,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,AAC,N,AAT,N,244.0,N244N,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9391,9391,0,81,0,19,0,2,C,C,81.0,T,mat_peptide,GAC,D,GAT,D,279.0,D279D,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9430,9430,0,44,0,54,0,4,C,T,55.10204081632652,T,mat_peptide,ATC,I,ATT,I,292.0,I292I,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9451,9451,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,TAC,Y,TAT,Y,299.0,Y299Y,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9491,9491,0,100,0,1,0,1,C,C,99.00990099009901,T,mat_peptide,CAT,H,TAT,Y,313.0,H313Y,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9510,9510,0,81,0,21,0,0,C,C,79.41176470588235,T,mat_peptide,ACT,T,ATT,I,319.0,T319I,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9559,9559,0,99,0,3,0,0,C,C,97.05882352941177,T,mat_peptide,TAC,Y,TAT,Y,335.0,Y335Y,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9615,9615,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACT,T,ATT,I,354.0,T354I,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9665,9665,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,CCT,P,TCT,S,371.0,P371S,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9679,9679,0,96,0,5,0,1,C,C,95.04950495049505,T,mat_peptide,TTC,F,TTT,F,375.0,F375F,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9711,9711,0,70,0,27,0,5,C,C,72.16494845360825,T,mat_peptide,TCC,S,TTC,F,386.0,S386F,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9712,9712,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,TCC,S,TCT,S,386.0,S386S,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9753,9753,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,AGA,R,ATA,I,400.0,R400I,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9856,9856,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,GTG,V,GTT,V,434.0,V434V,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+9886,9886,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,TAC,Y,TAT,Y,444.0,Y444Y,nsp4,nsp4B_TM; contains transmembrane domain 2 (TM2); produced by both pp1a and pp1ab
+10262,10262,2,0,100,0,0,0,G,G,98.0392156862745,A,mat_peptide,GCT,A,ACT,T,70.0,A70T,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10311,10311,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,GTA,V,G-A,,86.0,V86del,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10312,10312,101,0,0,0,1,0,A,A,99.01960784313727,-,mat_peptide,GTA,V,GT-,,86.0,V86del,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10313,10313,0,101,0,0,1,0,C,C,99.01960784313727,-,mat_peptide,CTT,L,-TT,,87.0,L87del,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10319,10319,0,45,0,52,0,5,C,T,53.608247422680414,T,mat_peptide,CTT,L,TTT,F,89.0,L89F,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10323,10323,100,0,2,0,0,0,A,A,98.0392156862745,G,mat_peptide,AAG,K,AGG,R,90.0,K90R,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10475,10473,0,1,0,101,0,0,T,T,99.01960784313727,C,mat_peptide,TTC,F,TCC,S,140.0,F140S,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10668,10666,0,0,1,101,0,0,T,T,99.01960784313727,G,mat_peptide,GTT,V,GTG,V,204.0,V204V,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10704,10702,0,81,0,16,0,5,C,C,83.50515463917526,T,mat_peptide,GAC,D,GAT,D,216.0,D216D,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10799,10797,101,0,1,0,0,0,A,A,99.01960784313727,G,mat_peptide,GAC,D,GGC,G,248.0,D248G,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10870,10868,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,CTG,L,TTG,L,272.0,L272L,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+10971,10969,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,TTC,F,TTA,L,305.0,F305L,3C-like proteinase,"""nsp5A_3CLpro and nsp5B_3CLpro; main proteinase (Mpro); mediates cleavages downstream of nsp4. 3D structure of the SARSr-CoV homolog has been determined (Yang et al., 2003); produced by both pp1a and pp1ab"""
+11069,11067,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,TCT,S,TTT,F,32.0,S32F,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11085,11083,0,0,94,8,0,0,G,G,92.15686274509804,T,mat_peptide,TTG,L,TTT,F,37.0,L37F,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11154,11152,0,98,0,4,0,0,C,C,96.07843137254902,T,mat_peptide,GTC,V,GTT,V,60.0,V60V,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11197,11195,0,80,0,22,0,0,C,C,78.43137254901961,T,mat_peptide,CTT,L,TTT,F,75.0,L75F,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11203,11201,100,0,2,0,0,0,A,A,98.0392156862745,G,mat_peptide,ACT,T,GCT,A,77.0,T77A,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11204,11202,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,ACT,T,ATT,I,77.0,T77I,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11310,11308,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,GAC,D,GAT,D,112.0,D112D,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11334,11332,99,0,3,0,0,0,A,A,97.05882352941177,G,mat_peptide,GTA,V,GTG,V,120.0,V120V,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11346,11344,0,98,0,3,0,1,C,C,97.02970297029702,T,mat_peptide,ATC,I,ATT,I,124.0,I124I,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11419,11417,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,GTT,V,TTT,F,149.0,V149F,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11420,11418,0,1,0,100,0,1,T,T,99.00990099009901,C,mat_peptide,GTT,V,GCT,A,149.0,V149A,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11508,11506,97,0,5,0,0,0,A,A,95.09803921568627,G,mat_peptide,GTA,V,GTG,V,178.0,V178V,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11516,11514,0,100,0,1,0,1,C,C,99.00990099009901,T,mat_peptide,ACT,T,ATT,I,181.0,T181I,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11574,11572,0,77,0,24,0,1,C,C,76.23762376237624,T,mat_peptide,TTC,F,TTT,F,200.0,F200F,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11676,11674,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,TAC,Y,TAT,Y,234.0,Y234Y,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11752,11750,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,CTC,L,ATC,I,260.0,L260I,nsp6,nsp6_TM; putative transmembrane domain; produced by both pp1a and pp1ab
+11922,11919,0,79,0,23,0,0,C,C,77.45098039215686,T,mat_peptide,TCT,S,TTT,F,26.0,S26F,nsp7,produced by both pp1a and pp1ab
+11992,11989,0,0,1,101,0,0,T,T,99.01960784313727,G,mat_peptide,TTT,F,TTG,L,49.0,F49L,nsp7,produced by both pp1a and pp1ab
+11993,11990,1,0,101,0,0,0,G,G,99.01960784313727,A,mat_peptide,GAA,E,AAA,K,50.0,E50K,nsp7,produced by both pp1a and pp1ab
+12052,12049,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,AAC,N,AAT,N,69.0,N69N,nsp7,produced by both pp1a and pp1ab
+12056,12053,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,CTT,L,TTT,F,71.0,L71F,nsp7,produced by both pp1a and pp1ab
+12076,12073,0,99,0,2,0,1,C,C,98.01980198019803,T,mat_peptide,GAC,D,GAT,D,77.0,D77D,nsp7,produced by both pp1a and pp1ab
+12079,12076,0,94,0,5,0,3,C,C,94.94949494949495,T,mat_peptide,AAC,N,AAT,N,78.0,N78N,nsp7,produced by both pp1a and pp1ab
+12200,12197,101,0,0,0,1,0,A,A,99.01960784313727,-,mat_peptide,AAA,K,-AA,,36.0,K36del,nsp8,produced by both pp1a and pp1ab
+12370,12367,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,TTC,F,TTT,F,92.0,F92F,nsp8,produced by both pp1a and pp1ab
+12381,12378,0,0,101,0,1,0,G,G,99.01960784313727,-,mat_peptide,AGA,R,A-A,,96.0,R96del,nsp8,produced by both pp1a and pp1ab
+12415,12412,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ATC,I,ATT,I,107.0,I107I,nsp8,produced by both pp1a and pp1ab
+12472,12469,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,GCC,A,GCA,A,126.0,A126A,nsp8,produced by both pp1a and pp1ab
+12476,12473,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,CTA,L,TTA,L,128.0,L128L,nsp8,produced by both pp1a and pp1ab
+12528,12525,0,81,0,20,0,1,C,C,80.19801980198021,T,mat_peptide,ACA,T,ATA,I,145.0,T145I,nsp8,produced by both pp1a and pp1ab
+12562,12559,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,ATC,I,ATA,I,156.0,I156I,nsp8,produced by both pp1a and pp1ab
+12596,12593,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,CAA,Q,AAA,K,168.0,Q168K,nsp8,produced by both pp1a and pp1ab
+12624,12621,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,TCA,S,TAA,*,177.0,S177*,nsp8,produced by both pp1a and pp1ab
+12711,12708,0,97,0,5,0,0,C,C,95.09803921568627,T,mat_peptide,GCA,A,GTA,V,8.0,A8V,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+12740,12737,76,0,22,0,0,4,A,A,77.55102040816327,G,mat_peptide,ACT,T,GCT,A,18.0,T18A,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+12744,12741,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,ACA,T,ATA,I,19.0,T19I,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+12792,12789,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACA,T,ATA,I,35.0,T35I,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+12795,12792,79,0,0,21,0,2,A,A,79.0,T,mat_peptide,AAG,K,ATG,M,36.0,K36M,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+12823,12820,94,0,7,0,0,1,A,A,93.06930693069307,G,mat_peptide,TTA,L,TTG,L,45.0,L45L,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+12967,12964,101,0,1,0,0,0,A,A,99.01960784313727,G,mat_peptide,GGA,G,GGG,G,93.0,G93G,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+13007,13004,1,0,101,0,0,0,G,G,99.01960784313727,A,mat_peptide,GCT,A,ACT,T,107.0,A107T,nsp9,ssRNA-binding protein; produced by both pp1a and pp1ab
+13203,13200,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,CCG,P,CAG,Q,59.0,P59Q,nsp10,nsp10_CysHis; formerly known as growth-factor-like protein (GFL); produced by both pp1a and pp1ab
+13204,13201,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,CCG,P,CCT,P,59.0,P59P,nsp10,nsp10_CysHis; formerly known as growth-factor-like protein (GFL); produced by both pp1a and pp1ab
+13259,13256,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,CGT,R,AGT,S,78.0,R78S,nsp10,nsp10_CysHis; formerly known as growth-factor-like protein (GFL); produced by both pp1a and pp1ab
+13406,13403,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,GGC,G,TGC,C,127.0,G127C,nsp10,nsp10_CysHis; formerly known as growth-factor-like protein (GFL); produced by both pp1a and pp1ab
+13416,13413,0,1,101,0,0,0,G,G,99.01960784313727,C,mat_peptide,TGT,C,TCT,S,130.0,C130S,nsp10,nsp10_CysHis; formerly known as growth-factor-like protein (GFL); produced by both pp1a and pp1ab
+13426,13423,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,CTC,L,CTT,L,133.0,L133L,nsp10,nsp10_CysHis; formerly known as growth-factor-like protein (GFL); produced by both pp1a and pp1ab
+13668,13665,0,79,0,21,0,2,C,C,79.0,T,mat_peptide,CAC,H,CAT,H,66.0,H66H,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+13764,13761,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,GAC,D,GAT,D,98.0,D98D,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+14121,14118,0,0,81,21,0,0,G,G,79.41176470588235,T,mat_peptide,ACG,T,ACT,T,217.0,T217T,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+14199,14196,0,1,0,101,0,0,T,T,99.01960784313727,C,mat_peptide,ACT,T,ACC,T,243.0,T243T,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+14361,14358,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,TGC,C,TGT,C,297.0,C297C,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+14411,14408,0,1,0,101,0,0,C,T,99.01960784313727,T,mat_peptide,CCT,P,CTT,L,314.0,P314L,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+14580,14577,0,4,0,97,0,1,T,T,96.03960396039604,C,mat_peptide,GCT,A,GCC,A,370.0,A370A,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+14588,14585,0,97,0,5,0,0,C,C,95.09803921568627,T,mat_peptide,GCT,A,GTT,V,373.0,A373V,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+14602,14599,0,99,0,3,0,0,C,C,97.05882352941177,T,mat_peptide,CTA,L,TTA,L,378.0,L378L,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+14809,14805,0,75,0,23,0,4,C,C,76.53061224489795,T,mat_peptide,TAC,Y,TAT,Y,446.0,Y446Y,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+14964,14960,92,0,0,6,0,4,A,A,93.87755102040816,T,mat_peptide,AAT,N,ATT,I,498.0,N498I,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15008,15004,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,GAG,E,TAG,*,513.0,E513*,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15052,15048,0,97,0,5,0,0,C,C,95.09803921568627,T,mat_peptide,ATC,I,ATT,I,527.0,I527I,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15119,15115,0,0,101,0,1,0,G,G,99.01960784313727,-,mat_peptide,GGT,G,-GT,,550.0,G550del,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15244,15240,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,AAC,N,AAT,N,591.0,N591N,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15280,15276,2,0,0,100,0,0,T,T,98.0392156862745,A,mat_peptide,CCT,P,CCA,P,603.0,P603P,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15376,15372,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,ACG,T,ACT,T,635.0,T635T,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15455,15451,4,0,97,0,0,1,G,G,96.03960396039604,A,mat_peptide,GGT,G,AGT,S,662.0,G662S,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15658,15654,0,99,0,3,0,0,C,C,97.05882352941177,T,mat_peptide,GAC,D,GAT,D,729.0,D729D,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15671,15667,101,0,0,0,1,0,A,A,99.01960784313727,-,mat_peptide,AAT,N,-AT,,734.0,N734del,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15718,15714,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,CTC,L,CTT,L,749.0,L749L,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15766,15762,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,GGT,G,GG-,,765.0,G765del,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+15853,15849,2,0,0,100,0,0,T,T,98.0392156862745,A,mat_peptide,ACT,T,ACA,T,794.0,T794T,RNA-dependent RNA polymerase,nsp12; NiRAN and RdRp; produced by pp1ab only
+16336,16332,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,GAC,D,GAA,E,32.0,D32E,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+16353,16349,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,TCA,S,TTA,L,38.0,S38L,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+16470,16466,0,93,0,7,0,2,C,C,93.0,T,mat_peptide,CCA,P,CTA,L,77.0,P77L,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+16556,16552,0,1,0,101,0,0,T,T,99.01960784313727,C,mat_peptide,TTT,F,CTT,L,106.0,F106L,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+16569,16565,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,GCA,A,GAA,E,110.0,A110E,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+16572,16568,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACA,T,ATA,I,111.0,T111I,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+16644,16640,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,GCA,A,GAA,E,135.0,A135E,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+16752,16748,101,0,1,0,0,0,A,A,99.01960784313727,G,mat_peptide,AAA,K,AGA,R,171.0,K171R,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+16891,16887,0,97,0,4,0,1,C,C,96.03960396039604,T,mat_peptide,TAC,Y,TAT,Y,217.0,Y217Y,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+16926,16922,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,TCA,S,TTA,L,229.0,S229L,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+16949,16945,0,1,101,0,0,0,G,G,99.01960784313727,C,mat_peptide,GCA,A,CCA,P,237.0,A237P,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+16954,16950,0,2,0,100,0,0,T,T,98.0392156862745,C,mat_peptide,CCT,P,CCC,P,238.0,P238P,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+16972,16968,0,0,100,1,0,1,G,G,99.00990099009901,T,mat_peptide,GAG,E,GAT,D,244.0,E244D,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17140,17136,0,1,0,101,0,0,T,T,99.01960784313727,C,mat_peptide,CCT,P,CCC,P,300.0,P300P,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17170,17166,0,0,6,94,0,2,T,T,94.0,G,mat_peptide,TCT,S,TCG,S,310.0,S310S,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17206,17202,101,0,1,0,0,0,A,A,99.01960784313727,G,mat_peptide,TTA,L,TTG,L,322.0,L322L,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17266,17262,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TGT,C,TG-,,342.0,C342del,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17359,17355,0,1,0,101,0,0,T,T,99.01960784313727,C,mat_peptide,TTT,F,TTC,F,373.0,F373F,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17371,17367,101,0,0,1,0,0,A,A,99.01960784313727,T,mat_peptide,TCA,S,TCT,S,377.0,S377S,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17503,17499,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TAT,Y,TA-,,421.0,Y421del,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17504,17500,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TTC,F,-TC,,422.0,F422del,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17511,17507,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,TCA,S,TAA,*,424.0,S424*,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17532,17528,0,97,0,4,0,1,C,C,96.03960396039604,T,mat_peptide,ACT,T,ATT,I,431.0,T431I,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17566,17562,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,CGG,R,CGT,R,442.0,R442R,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17639,17635,101,0,0,0,1,0,A,A,99.01960784313727,-,mat_peptide,AAA,K,-AA,,467.0,K467del,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+17662,17658,0,0,97,5,0,0,G,G,95.09803921568627,T,mat_peptide,ATG,M,ATT,I,474.0,M474I,helicase,"""nsp13_ZBD, nsp13_TB, and nsp_HEL1core; zinc-binding domain (ZD), NTPase/helicase domain (HEL), RNA 5'-triphosphatase; produced by pp1ab only"""
+18136,18132,0,3,0,99,0,0,T,T,97.05882352941177,C,mat_peptide,ACT,T,ACC,T,31.0,T31T,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18147,18143,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACT,T,ATT,I,35.0,T35I,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18171,18167,0,100,0,1,0,1,C,C,99.00990099009901,T,mat_peptide,CCT,P,CTT,L,43.0,P43L,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18175,18171,0,96,0,4,0,2,C,C,96.0,T,mat_peptide,GGC,G,GGT,G,44.0,G44G,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18189,18185,0,1,0,101,0,0,T,T,99.01960784313727,C,mat_peptide,ATG,M,ACG,T,49.0,M49T,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18190,18186,0,0,101,0,1,0,G,G,99.01960784313727,-,mat_peptide,ATG,M,AT-,,49.0,M49del,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18242,18238,101,0,1,0,0,0,A,A,99.01960784313727,G,mat_peptide,AAT,N,GAT,D,67.0,N67D,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18277,18273,100,2,0,0,0,0,A,A,98.0392156862745,C,mat_peptide,GAA,E,GAC,D,78.0,E78D,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18296,18292,0,0,101,0,1,0,G,G,99.01960784313727,-,mat_peptide,GCA,A,-CA,,85.0,A85del,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18322,18318,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,GGG,G,GGT,G,93.0,G93G,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18342,18338,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,GCT,A,GTT,V,100.0,A100V,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18428,18424,51,0,46,0,0,5,A,A,52.57731958762887,G,mat_peptide,AAT,N,GAT,D,129.0,N129D,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18444,18440,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,TCC,S,TTC,F,134.0,S134F,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18464,18460,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,CCG,P,TCG,S,141.0,P141S,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18490,18486,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,CTC,L,CTT,L,149.0,L149L,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18505,18501,0,92,0,6,0,4,C,C,93.87755102040816,T,mat_peptide,TAC,Y,TAT,Y,154.0,Y154Y,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18705,18701,0,99,0,3,0,0,C,C,97.05882352941177,T,mat_peptide,TCA,S,TTA,L,221.0,S221L,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18748,18744,0,79,0,21,0,2,C,C,79.0,T,mat_peptide,TAC,Y,TAT,Y,235.0,Y235Y,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18776,18772,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,CAA,Q,AAA,K,245.0,Q245K,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18852,18848,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,GCT,A,GTT,V,270.0,A270V,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18907,18903,22,0,79,0,0,1,G,G,78.21782178217822,A,mat_peptide,AAG,K,AAA,K,288.0,K288K,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18986,18982,101,0,0,0,1,0,A,A,99.01960784313727,-,mat_peptide,ATG,M,-TG,,315.0,M315del,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+18987,18983,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,ATG,M,A-G,,315.0,M315del,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19014,19010,98,0,2,0,0,2,A,A,98.0,G,mat_peptide,GAC,D,GGC,G,324.0,D324G,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19015,19011,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,GAC,D,GAT,D,324.0,D324D,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19108,19104,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,CCT,P,CC-,,355.0,P355del,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19109,19105,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TGT,C,-GT,,356.0,C356del,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19110,19106,0,0,101,0,1,0,G,G,99.01960784313727,-,mat_peptide,TGT,C,T-T,,356.0,C356del,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19176,19172,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACA,T,ATA,I,378.0,T378I,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19184,19180,0,0,80,19,0,3,G,G,80.8080808080808,T,mat_peptide,GTA,V,TTA,L,381.0,V381L,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19189,19185,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,TGC,C,TGT,C,382.0,C382C,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19250,19245,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,GAC,D,GAT,D,402.0,D402D,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19374,19369,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TTT,F,-TT,,444.0,F444del,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19375,19370,0,0,0,101,1,0,T,T,99.01960784313727,-,mat_peptide,TTT,F,T-T,,444.0,F444del,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19615,19610,0,100,0,1,0,1,C,C,99.00990099009901,T,mat_peptide,ACA,T,ATA,I,524.0,T524I,3'-to-5' exonuclease,nsp14A2_ExoN and nsp14B_NMT; produced by pp1ab only
+19723,19718,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACA,T,ATA,I,33.0,T33I,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+19825,19820,1,101,0,0,0,0,C,C,99.01960784313727,A,mat_peptide,CCA,P,CAA,Q,67.0,P67Q,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+19966,19961,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,ACG,T,ATG,M,114.0,T114M,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+20021,20016,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,GAC,D,GAT,D,132.0,D132D,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+20038,20033,0,0,101,1,0,0,G,G,99.01960784313727,T,mat_peptide,CGT,R,CTT,L,138.0,R138L,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+20264,20259,0,81,0,19,0,2,C,C,81.0,T,mat_peptide,TTC,F,TTT,F,213.0,F213F,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+20273,20268,85,0,17,0,0,0,A,A,83.33333333333334,G,mat_peptide,TTA,L,TTG,L,216.0,L216L,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+20394,20389,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,CGT,R,TGT,C,257.0,R257C,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+20441,20436,0,100,0,2,0,0,C,C,98.0392156862745,T,mat_peptide,GAC,D,GAT,D,272.0,D272D,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+20456,20451,0,101,0,1,0,0,C,C,99.01960784313727,T,mat_peptide,AAC,N,AAT,N,277.0,N277N,endoRNAse,nsp15-A1 and nsp15B-NendoU; produced by pp1ab only
+20674,20668,3,0,97,0,0,2,G,G,97.0,A,mat_peptide,GCG,A,ACG,T,4.0,A4T,2'-O-ribose methyltransferase,nsp16_OMT; 2'-o-MT; produced by pp1ab only
+20839,20833,0,1,0,101,0,0,T,T,99.01960784313727,C,mat_peptide,TTA,L,CTA,L,59.0,L59L,2'-O-ribose methyltransferase,nsp16_OMT; 2'-o-MT; produced by pp1ab only
+20908,20902,101,0,0,0,1,0,A,A,99.01960784313727,-,mat_peptide,ACA,T,-CA,,82.0,T82del,2'-O-ribose methyltransferase,nsp16_OMT; 2'-o-MT; produced by pp1ab only
+20983,20977,0,1,101,0,0,0,G,G,99.01960784313727,C,mat_peptide,GCA,A,CCA,P,107.0,A107P,2'-O-ribose methyltransferase,nsp16_OMT; 2'-o-MT; produced by pp1ab only
+21184,21178,0,93,0,7,0,2,C,C,93.0,T,mat_peptide,CAT,H,TAT,Y,174.0,H174Y,2'-O-ribose methyltransferase,nsp16_OMT; 2'-o-MT; produced by pp1ab only
+21310,21304,3,44,0,48,0,7,C,T,50.526315789473685,T,mat_peptide,CGC,R,TGC,C,216.0,R216C,2'-O-ribose methyltransferase,nsp16_OMT; 2'-o-MT; produced by pp1ab only
+21311,21305,3,0,99,0,0,0,G,G,97.05882352941177,A,mat_peptide,CGC,R,CAC,H,216.0,R216H,2'-O-ribose methyltransferase,nsp16_OMT; 2'-o-MT; produced by pp1ab only
+21581,21575,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,CTT,L,TTT,F,5.0,L5F,surface glycoprotein,structural protein; spike protein
+21603,21597,0,98,0,2,0,2,C,C,98.0,T,CDS,TCT,S,TTT,F,12.0,S12F,surface glycoprotein,structural protein; spike protein
+21620,21614,0,99,0,3,0,0,C,C,97.05882352941177,T,CDS,CTT,L,TTT,F,18.0,L18F,surface glycoprotein,structural protein; spike protein
+21624,21618,0,97,5,0,0,0,C,C,95.09803921568627,G,CDS,ACA,T,AGA,R,19.0,T19R,surface glycoprotein,structural protein; spike protein
+21628,21622,0,98,0,4,0,0,C,C,96.07843137254902,T,CDS,ACC,T,ACT,T,20.0,T20T,surface glycoprotein,structural protein; spike protein
+21633,21627,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,ACT,T,ATT,I,22.0,T22I,surface glycoprotein,structural protein; spike protein
+21654,21648,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,ACT,T,ATT,I,29.0,T29I,surface glycoprotein,structural protein; spike protein
+21664,21658,0,97,0,2,0,3,C,C,97.97979797979798,T,CDS,TTC,F,TTT,F,32.0,F32F,surface glycoprotein,structural protein; spike protein
+21711,21705,0,1,0,101,0,0,T,T,99.01960784313727,C,CDS,TTA,L,TCA,S,48.0,L48S,surface glycoprotein,structural protein; spike protein
+21713,21707,0,100,0,1,0,1,C,C,99.00990099009901,T,CDS,CAT,H,TAT,Y,49.0,H49Y,surface glycoprotein,structural protein; spike protein
+21727,21721,0,99,0,2,0,1,C,C,98.01980198019803,T,CDS,GAC,D,GAT,D,53.0,D53D,surface glycoprotein,structural protein; spike protein
+21776,21770,0,1,101,0,0,0,G,G,99.01960784313727,C,CDS,GTC,V,CTC,L,70.0,V70L,surface glycoprotein,structural protein; spike protein
+21782,21776,19,0,80,0,0,3,G,G,80.8080808080808,A,CDS,GGG,G,AGG,R,72.0,G72R,surface glycoprotein,structural protein; spike protein
+21808,21802,0,1,0,101,0,0,T,T,99.01960784313727,C,CDS,GAT,D,GAC,D,80.0,D80D,surface glycoprotein,structural protein; spike protein
+21988,21981,0,0,0,94,7,1,T,T,93.06930693069307,-,CDS,TTT,F,T-T,,140.0,F140del,surface glycoprotein,structural protein; spike protein
+21989,21982,0,0,0,94,7,1,T,T,93.06930693069307,-,CDS,TTT,F,TT-,,140.0,F140del,surface glycoprotein,structural protein; spike protein
+21990,21983,0,0,0,94,7,1,T,T,93.06930693069307,-,CDS,TTG,L,-TG,,141.0,L141del,surface glycoprotein,structural protein; spike protein
+21991,21984,0,0,0,94,7,1,T,T,93.06930693069307,-,CDS,TTG,L,T-G,,141.0,L141del,surface glycoprotein,structural protein; spike protein
+21992,21985,0,0,94,0,7,1,G,G,93.06930693069307,-,CDS,TTG,L,TT-,,141.0,L141del,surface glycoprotein,structural protein; spike protein
+21993,21986,0,0,94,0,7,1,G,G,93.06930693069307,-,CDS,GGT,G,-GT,,142.0,G142del,surface glycoprotein,structural protein; spike protein
+21994,21987,2,0,92,0,7,1,G,G,91.0891089108911,-,CDS,GGT,G,G-T,,142.0,G142del,surface glycoprotein,structural protein; spike protein
+21995,21988,0,0,0,94,7,1,T,T,93.06930693069307,-,CDS,GGT,G,GG-,,142.0,G142del,surface glycoprotein,structural protein; spike protein
+21996,21989,0,0,94,0,7,1,G,G,93.06930693069307,-,CDS,GTT,V,-TT,,143.0,V143del,surface glycoprotein,structural protein; spike protein
+21997,21990,0,0,0,94,7,1,T,T,93.06930693069307,-,CDS,GTT,V,G-T,,143.0,V143del,surface glycoprotein,structural protein; spike protein
+21998,21991,0,0,0,92,9,1,T,T,91.0891089108911,-,CDS,GTT,V,GT-,,143.0,V143del,surface glycoprotein,structural protein; spike protein
+21999,21992,0,0,0,93,9,0,T,T,91.17647058823529,-,CDS,TAT,Y,-AT,,144.0,Y144del,surface glycoprotein,structural protein; spike protein
+22000,21993,95,0,0,5,2,0,A,A,93.13725490196079,T,CDS,TAT,Y,TTT,F,144.0,Y144F,surface glycoprotein,structural protein; spike protein
+22028,22021,0,0,101,1,0,0,G,G,99.01960784313727,T,CDS,ATG,M,ATT,I,153.0,M153I,surface glycoprotein,structural protein; spike protein
+22036,22029,100,0,0,0,2,0,A,A,98.0392156862745,-,CDS,GAG,E,G-G,,156.0,E156del,surface glycoprotein,structural protein; spike protein
+22037,22030,0,0,100,0,2,0,G,G,98.0392156862745,-,CDS,GAG,E,GA-,,156.0,E156del,surface glycoprotein,structural protein; spike protein
+22038,22031,0,0,0,100,2,0,T,T,98.0392156862745,-,CDS,TTC,F,-TC,,157.0,F157del,surface glycoprotein,structural protein; spike protein
+22039,22032,0,0,0,100,2,0,T,T,98.0392156862745,-,CDS,TTC,F,T-C,,157.0,F157del,surface glycoprotein,structural protein; spike protein
+22040,22033,0,100,0,0,2,0,C,C,98.0392156862745,-,CDS,TTC,F,TT-,,157.0,F157del,surface glycoprotein,structural protein; spike protein
+22041,22034,100,0,0,0,2,0,A,A,98.0392156862745,-,CDS,AGA,R,-GA,,158.0,R158del,surface glycoprotein,structural protein; spike protein
+22156,22149,101,0,0,0,1,0,A,A,99.01960784313727,-,CDS,AAT,N,A-T,,196.0,N196del,surface glycoprotein,structural protein; spike protein
+22157,22150,0,0,0,101,1,0,T,T,99.01960784313727,-,CDS,AAT,N,AA-,,196.0,N196del,surface glycoprotein,structural protein; spike protein
+22169,22162,0,2,0,100,0,0,T,T,98.0392156862745,C,CDS,TAT,Y,TAC,Y,200.0,Y200Y,surface glycoprotein,structural protein; spike protein
+22302,22295,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,CAT,H,TAT,Y,245.0,H245Y,surface glycoprotein,structural protein; spike protein
+22357,22350,0,93,0,3,0,6,C,C,96.875,T,CDS,GCA,A,GTA,V,263.0,A263V,surface glycoprotein,structural protein; spike protein
+22439,22432,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,GAC,D,GAT,D,290.0,D290D,surface glycoprotein,structural protein; spike protein
+22457,22450,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,CTC,L,CTT,L,296.0,L296L,surface glycoprotein,structural protein; spike protein
+22505,22498,0,99,0,3,0,0,C,C,97.05882352941177,T,CDS,ATC,I,ATT,I,312.0,I312I,surface glycoprotein,structural protein; spike protein
+22634,22627,1,0,101,0,0,0,G,G,99.01960784313727,A,CDS,AGG,R,AGA,R,355.0,R355R,surface glycoprotein,structural protein; spike protein
+22676,22669,0,1,0,101,0,0,T,T,99.01960784313727,C,CDS,TAT,Y,TAC,Y,369.0,Y369Y,surface glycoprotein,structural protein; spike protein
+22694,22687,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,TCC,S,TCT,S,375.0,S375S,surface glycoprotein,structural protein; spike protein
+22757,22750,0,3,0,99,0,0,T,T,97.05882352941177,C,CDS,TAT,Y,TAC,Y,396.0,Y396Y,surface glycoprotein,structural protein; spike protein
+22805,22798,101,0,1,0,0,0,A,A,99.01960784313727,G,CDS,CCA,P,CCG,P,412.0,P412P,surface glycoprotein,structural protein; spike protein
+23002,22995,2,100,0,0,0,0,C,C,98.0392156862745,A,CDS,ACA,T,AAA,K,478.0,T478K,surface glycoprotein,structural protein; spike protein
+23021,23014,101,1,0,0,0,0,A,A,99.01960784313727,C,CDS,GAA,E,GAC,D,484.0,E484D,surface glycoprotein,structural protein; spike protein
+23073,23066,0,0,101,1,0,0,G,G,99.01960784313727,T,CDS,GGT,G,TGT,C,502.0,G502C,surface glycoprotein,structural protein; spike protein
+23273,23266,0,100,0,2,0,0,C,C,98.0392156862745,T,CDS,GAC,D,GAT,D,568.0,D568D,surface glycoprotein,structural protein; spike protein
+23284,23277,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,ACT,T,ATT,I,572.0,T572I,surface glycoprotein,structural protein; spike protein
+23289,23282,0,0,101,1,0,0,G,G,99.01960784313727,T,CDS,GAT,D,TAT,Y,574.0,D574Y,surface glycoprotein,structural protein; spike protein
+23291,23284,0,1,0,101,0,0,T,T,99.01960784313727,C,CDS,GAT,D,GAC,D,574.0,D574D,surface glycoprotein,structural protein; spike protein
+23408,23401,0,0,101,1,0,0,G,G,99.01960784313727,T,CDS,CAG,Q,CAT,H,613.0,Q613H,surface glycoprotein,structural protein; spike protein
+23410,23403,1,0,101,0,0,0,A,G,99.01960784313727,G,CDS,GAT,D,GGT,G,614.0,D614G,surface glycoprotein,structural protein; spike protein
+23611,23604,0,100,2,0,0,0,C,C,98.0392156862745,G,CDS,CCT,P,CGT,R,681.0,P681R,surface glycoprotein,structural protein; spike protein
+23671,23664,0,89,0,9,0,4,C,C,90.81632653061224,T,CDS,GCA,A,GTA,V,701.0,A701V,surface glycoprotein,structural protein; spike protein
+23747,23740,0,1,0,101,0,0,T,T,99.01960784313727,C,CDS,ATT,I,ATC,I,726.0,I726I,surface glycoprotein,structural protein; spike protein
+24062,24055,0,1,0,101,0,0,T,T,99.01960784313727,C,CDS,GCT,A,GCC,A,831.0,A831A,surface glycoprotein,structural protein; spike protein
+24213,24206,101,0,0,1,0,0,A,A,99.01960784313727,T,CDS,ATC,I,TTC,F,882.0,I882F,surface glycoprotein,structural protein; spike protein
+24239,24232,82,0,20,0,0,0,A,A,80.3921568627451,G,CDS,GCA,A,GCG,A,890.0,A890A,surface glycoprotein,structural protein; spike protein
+24327,24320,1,101,0,0,0,0,C,C,99.01960784313727,A,CDS,CAA,Q,AAA,K,920.0,Q920K,surface glycoprotein,structural protein; spike protein
+24344,24337,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,AAC,N,AAT,N,925.0,N925N,surface glycoprotein,structural protein; spike protein
+24417,24410,3,0,99,0,0,0,G,G,97.05882352941177,A,CDS,GAT,D,AAT,N,950.0,D950N,surface glycoprotein,structural protein; spike protein
+24425,24418,1,101,0,0,0,0,C,C,99.01960784313727,A,CDS,GTC,V,GTA,V,952.0,V952V,surface glycoprotein,structural protein; spike protein
+24549,24542,0,0,101,1,0,0,G,G,99.01960784313727,T,CDS,GAT,D,TAT,Y,994.0,D994Y,surface glycoprotein,structural protein; spike protein
+24551,24544,0,1,0,100,0,1,T,T,99.00990099009901,C,CDS,GAT,D,GAC,D,994.0,D994D,surface glycoprotein,structural protein; spike protein
+24788,24781,2,0,100,0,0,0,G,G,98.0392156862745,A,CDS,AAG,K,AAA,K,1073.0,K1073K,surface glycoprotein,structural protein; spike protein
+24907,24900,101,0,0,0,1,0,A,A,99.01960784313727,-,CDS,CAA,Q,C-A,,1113.0,Q1113del,surface glycoprotein,structural protein; spike protein
+25004,24997,78,0,22,0,0,2,A,A,78.0,G,CDS,TTA,L,TTG,L,1145.0,L1145L,surface glycoprotein,structural protein; spike protein
+25005,24998,0,0,101,1,0,0,G,G,99.01960784313727,T,CDS,GAC,D,TAC,Y,1146.0,D1146Y,surface glycoprotein,structural protein; spike protein
+25025,25018,99,0,2,0,0,1,A,A,98.01980198019803,G,CDS,TTA,L,TTG,L,1152.0,L1152L,surface glycoprotein,structural protein; spike protein
+25176,25169,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,CTT,L,TTT,F,1203.0,L1203F,surface glycoprotein,structural protein; spike protein
+25251,25244,0,0,97,5,0,0,G,G,95.09803921568627,T,CDS,GTA,V,TTA,L,1228.0,V1228L,surface glycoprotein,structural protein; spike protein
+25299,25292,1,101,0,0,0,0,C,C,99.01960784313727,A,CDS,CTC,L,ATC,I,1244.0,L1244I,surface glycoprotein,structural protein; spike protein
+25357,25350,1,101,0,0,0,0,C,C,99.01960784313727,A,CDS,CCA,P,CAA,Q,1263.0,P1263Q,surface glycoprotein,structural protein; spike protein
+25418,25411,101,0,1,0,0,0,A,A,99.01960784313727,G,CDS,ATC,I,GTC,V,7.0,I7V,ORF3a protein,
+25434,25427,0,100,0,2,0,0,C,C,98.0392156862745,T,CDS,ACT,T,ATT,I,12.0,T12I,ORF3a protein,
+25476,25469,0,99,0,2,0,1,C,C,98.01980198019803,T,CDS,TCA,S,TTA,L,26.0,S26L,ORF3a protein,
+25507,25500,1,0,101,0,0,0,G,G,99.01960784313727,A,CDS,CCG,P,CCA,P,36.0,P36P,ORF3a protein,
+25528,25521,0,97,0,5,0,0,C,C,95.09803921568627,T,CDS,TTC,F,TTT,F,43.0,F43F,ORF3a protein,
+25559,25552,0,0,90,6,0,6,G,G,93.75,T,CDS,GCT,A,TCT,S,54.0,A54S,ORF3a protein,
+25570,25563,0,0,18,79,0,5,G,T,81.44329896907216,T,CDS,CAG,Q,CAT,H,57.0,Q57H,ORF3a protein,
+25606,25599,0,0,101,1,0,0,G,G,99.01960784313727,T,CDS,TGG,W,TGT,C,69.0,W69C,ORF3a protein,
+25610,25603,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,CTA,L,TTA,L,71.0,L71L,ORF3a protein,
+25648,25641,0,0,97,4,0,1,G,G,96.03960396039604,T,CDS,TTG,L,TTT,F,83.0,L83F,ORF3a protein,
+25715,25708,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,CTC,L,TTC,F,106.0,L106F,ORF3a protein,
+25735,25728,0,97,0,5,0,0,C,C,95.09803921568627,T,CDS,GTC,V,GTT,V,112.0,V112V,ORF3a protein,
+25792,25785,0,0,100,2,0,0,G,G,98.0392156862745,T,CDS,TGG,W,TGT,C,131.0,W131C,ORF3a protein,
+25911,25904,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,TCA,S,TTA,L,171.0,S171L,ORF3a protein,
+25914,25907,0,0,42,53,0,7,G,T,55.78947368421052,T,CDS,GGT,G,GTT,V,172.0,G172V,ORF3a protein,
+26001,25994,0,0,0,101,1,0,T,T,99.01960784313727,-,CDS,GTT,V,G-T,,201.0,V201del,ORF3a protein,
+26028,26021,101,1,0,0,0,0,A,A,99.01960784313727,C,CDS,GAC,D,GCC,A,210.0,D210A,ORF3a protein,
+26085,26078,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,ACC,T,ATC,I,229.0,T229I,ORF3a protein,
+26123,26116,0,0,101,1,0,0,G,G,99.01960784313727,T,CDS,GAA,E,TAA,*,242.0,E242*,ORF3a protein,
+26165,26158,0,0,97,0,5,0,G,G,95.09803921568627,-,CDS,GTT,V,-TT,,256.0,V256del,ORF3a protein,
+26166,26159,0,0,0,76,25,1,T,T,75.24752475247524,-,CDS,GTT,V,G-T,,256.0,V256del,ORF3a protein,
+26167,26160,0,0,0,76,25,1,T,T,75.24752475247524,-,CDS,GTT,V,GT-,,256.0,V256del,ORF3a protein,
+26168,26161,76,0,0,0,25,1,A,A,75.24752475247524,-,CDS,AAT,N,-AT,,257.0,N257del,ORF3a protein,
+26373,26366,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,GCG,A,GTG,V,41.0,A41V,envelope protein,ORF4; structural protein; E protein
+26476,26469,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,GTC,V,GTT,V,75.0,V75V,envelope protein,ORF4; structural protein; E protein
+26565,26558,4,0,97,0,0,1,G,G,96.03960396039604,A,CDS,GAG,E,GAA,E,12.0,E12E,membrane glycoprotein,ORF5; structural protein
+26654,26647,0,0,101,1,0,0,G,G,99.01960784313727,T,CDS,AGG,R,ATG,M,42.0,R42M,membrane glycoprotein,ORF5; structural protein
+26742,26735,0,94,0,7,0,1,C,C,93.06930693069307,T,CDS,TAC,Y,TAT,Y,71.0,Y71Y,membrane glycoprotein,ORF5; structural protein
+26761,26754,0,0,101,1,0,0,G,G,99.01960784313727,T,CDS,GGT,G,TGT,C,78.0,G78C,membrane glycoprotein,ORF5; structural protein
+26774,26767,0,4,0,98,0,0,T,T,96.07843137254902,C,CDS,ATC,I,ACC,T,82.0,I82T,membrane glycoprotein,ORF5; structural protein
+26902,26895,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,CAT,H,TAT,Y,125.0,H125Y,membrane glycoprotein,ORF5; structural protein
+27081,27074,0,0,98,3,0,1,G,G,97.02970297029702,T,CDS,TCG,S,TCT,S,184.0,S184S,membrane glycoprotein,ORF5; structural protein
+27156,27149,0,98,0,2,0,2,C,C,98.0,T,CDS,GAC,D,GAT,D,209.0,D209D,membrane glycoprotein,ORF5; structural protein
+27206,27199,0,99,0,2,0,1,C,C,98.01980198019803,T,source,CAG,Q,TAG,*,9067.0,Q9067*,,
+27400,27393,0,101,0,1,0,0,C,C,99.01960784313727,T,source,AAC,N,AAT,N,9131.0,N9131N,,
+27434,27427,0,100,0,2,0,0,C,C,98.0392156862745,T,CDS,CTC,L,TTC,F,12.0,L12F,ORF7a protein,
+27436,27429,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,CTC,L,CTT,L,12.0,L12L,ORF7a protein,
+27500,27493,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,CCT,P,TCT,S,34.0,P34S,ORF7a protein,
+27523,27516,1,0,101,0,0,0,G,G,99.01960784313727,A,CDS,GAG,E,GAA,E,41.0,E41E,ORF7a protein,
+27587,27580,0,0,0,100,2,0,T,T,98.0392156862745,-,CDS,TTT,F,-TT,,63.0,F63del,ORF7a protein,
+27588,27581,0,0,0,100,2,0,T,T,98.0392156862745,-,CDS,TTT,F,T-T,,63.0,F63del,ORF7a protein,
+27600,27593,0,1,101,0,0,0,G,G,99.01960784313727,C,CDS,TGT,C,TCT,S,67.0,C67S,ORF7a protein,
+27617,27610,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,CAC,H,TAC,Y,73.0,H73Y,ORF7a protein,
+27645,27638,0,1,0,101,0,0,T,T,99.01960784313727,C,CDS,GTT,V,GCT,A,82.0,V82A,ORF7a protein,
+27679,27672,0,1,0,101,0,0,T,T,99.01960784313727,C,CDS,GTT,V,GTC,V,93.0,V93V,ORF7a protein,
+27702,27695,0,0,0,101,1,0,T,T,99.01960784313727,-,CDS,TTT,F,T-T,,101.0,F101del,ORF7a protein,
+27703,27696,0,0,0,101,1,0,T,T,99.01960784313727,-,CDS,TTT,F,TT-,,101.0,F101del,ORF7a protein,
+27704,27697,0,100,0,1,1,0,C,C,98.0392156862745,T,CDS,CTT,L,TTT,F,102.0,L102F,ORF7a protein,
+27705,27698,0,0,0,101,1,0,T,T,99.01960784313727,-,CDS,CTT,L,C-T,,102.0,L102del,ORF7a protein,
+27706,27699,0,0,0,101,1,0,T,T,99.01960784313727,-,CDS,CTT,L,CT-,,102.0,L102del,ORF7a protein,
+27707,27700,101,0,0,0,1,0,A,A,99.01960784313727,-,CDS,ATT,I,-TT,,103.0,I103del,ORF7a protein,
+27727,27720,0,0,0,101,1,0,T,T,99.01960784313727,-,CDS,TTT,F,TT-,,109.0,F109del,ORF7a protein,
+27728,27721,101,0,0,0,1,0,A,A,99.01960784313727,-,CDS,ATA,I,-TA,,110.0,I110del,ORF7a protein,
+27759,27752,0,99,0,3,0,0,C,C,97.05882352941177,T,CDS,ACA,T,ATA,I,120.0,T120I,ORF7a protein,
+27786,27779,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,GAC,D,GAT,D,8.0,D8D,ORF7b,
+27927,27920,0,80,0,21,0,1,C,C,79.20792079207921,T,CDS,ATC,I,ATT,I,9.0,I9I,ORF8 protein,
+27951,27944,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,CAC,H,CAT,H,17.0,H17H,ORF8 protein,
+27971,27964,0,45,0,54,0,3,C,T,54.54545454545454,T,CDS,TCA,S,TTA,L,24.0,S24L,ORF8 protein,
+27991,27984,0,2,0,95,0,5,T,T,97.9381443298969,C,CDS,TAT,Y,CAT,H,31.0,Y31H,ORF8 protein,
+28012,28005,0,96,0,4,0,2,C,C,96.0,T,CDS,CCT,P,TCT,S,38.0,P38S,ORF8 protein,
+28084,28077,0,0,101,0,1,0,G,G,99.01960784313727,-,CDS,GTG,V,-TG,,62.0,V62del,ORF8 protein,
+28094,28087,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,GCT,A,GTT,V,65.0,A65V,ORF8 protein,
+28256,28248,0,0,97,0,4,1,G,G,96.03960396039604,-,CDS,GAT,D,-AT,,119.0,D119del,ORF8 protein,
+28257,28249,97,0,0,0,4,1,A,A,96.03960396039604,-,CDS,GAT,D,G-T,,119.0,D119del,ORF8 protein,
+28258,28250,0,0,0,97,4,1,T,T,96.03960396039604,-,CDS,GAT,D,GA-,,119.0,D119del,ORF8 protein,
+28259,28251,0,0,0,97,4,1,T,T,96.03960396039604,-,CDS,TTC,F,-TC,,120.0,F120del,ORF8 protein,
+28260,28252,0,0,0,97,2,3,T,T,97.97979797979798,-,CDS,TTC,F,T-C,,120.0,F120del,ORF8 protein,
+28261,28253,0,97,0,0,2,3,C,C,97.97979797979798,-,CDS,TTC,F,TT-,,120.0,F120del,ORF8 protein,
+28279,28271,97,0,0,0,4,1,A,A,96.03960396039604,-,source,TAA,*,T-A,,9424.0,*9424del,,
+28294,28286,0,0,101,1,0,0,G,G,99.01960784313727,T,CDS,GGA,G,TGA,*,5.0,G5*,nucleocapsid phosphoprotein,ORF9; structural protein
+28308,28300,0,0,83,18,0,1,G,G,82.17821782178217,T,CDS,CAG,Q,CAT,H,9.0,Q9H,nucleocapsid phosphoprotein,ORF9; structural protein
+28313,28305,100,0,2,0,0,0,A,A,98.0392156862745,G,CDS,AAT,N,AGT,S,11.0,N11S,nucleocapsid phosphoprotein,ORF9; structural protein
+28318,28310,0,100,0,2,0,0,C,C,98.0392156862745,T,CDS,CCC,P,TCC,S,13.0,P13S,nucleocapsid phosphoprotein,ORF9; structural protein
+28470,28461,98,0,2,0,0,2,A,A,98.0,G,CDS,GAC,D,GGC,G,63.0,D63G,nucleocapsid phosphoprotein,ORF9; structural protein
+28481,28472,0,42,0,57,0,3,C,T,57.57575757575758,T,CDS,CCT,P,TCT,S,67.0,P67S,nucleocapsid phosphoprotein,ORF9; structural protein
+28576,28567,0,100,0,2,0,0,C,C,98.0392156862745,T,CDS,GAC,D,GAT,D,98.0,D98D,nucleocapsid phosphoprotein,ORF9; structural protein
+28686,28677,0,82,0,18,0,2,C,C,82.0,T,CDS,ACT,T,ATT,I,135.0,T135I,nucleocapsid phosphoprotein,ORF9; structural protein
+28753,28744,0,100,0,2,0,0,C,C,98.0392156862745,T,CDS,ATC,I,ATT,I,157.0,I157I,nucleocapsid phosphoprotein,ORF9; structural protein
+28814,28805,0,0,101,0,1,0,G,G,99.01960784313727,-,CDS,GGC,G,-GC,,178.0,G178del,nucleocapsid phosphoprotein,ORF9; structural protein
+28836,28827,0,0,101,1,0,0,G,G,99.01960784313727,T,CDS,CGT,R,CTT,L,185.0,R185L,nucleocapsid phosphoprotein,ORF9; structural protein
+28851,28842,0,0,100,2,0,0,G,G,98.0392156862745,T,CDS,AGT,S,ATT,I,190.0,S190I,nucleocapsid phosphoprotein,ORF9; structural protein
+28863,28854,0,83,0,18,0,1,C,C,82.17821782178217,T,CDS,TCA,S,TTA,L,194.0,S194L,nucleocapsid phosphoprotein,ORF9; structural protein
+28878,28869,0,49,0,49,0,4,C,C,50.0,T,CDS,CCA,P,CTA,L,199.0,P199L,nucleocapsid phosphoprotein,ORF9; structural protein
+28890,28881,0,0,95,6,0,1,G,G,94.05940594059405,T,CDS,AGG,R,ATG,M,203.0,R203M,nucleocapsid phosphoprotein,ORF9; structural protein
+28902,28893,0,81,0,19,0,2,C,C,81.0,T,CDS,CCT,P,CTT,L,207.0,P207L,nucleocapsid phosphoprotein,ORF9; structural protein
+29086,29077,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,TAC,Y,TAT,Y,268.0,Y268Y,nucleocapsid phosphoprotein,ORF9; structural protein
+29100,29091,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,GCT,A,GTT,V,273.0,A273V,nucleocapsid phosphoprotein,ORF9; structural protein
+29149,29140,0,1,100,0,0,1,G,G,99.00990099009901,C,CDS,CAG,Q,CAC,H,289.0,Q289H,nucleocapsid phosphoprotein,ORF9; structural protein
+29176,29167,0,100,0,2,0,0,C,C,98.0392156862745,T,CDS,TAC,Y,TAT,Y,298.0,Y298Y,nucleocapsid phosphoprotein,ORF9; structural protein
+29188,29179,0,0,100,2,0,0,G,G,98.0392156862745,T,CDS,CCG,P,CCT,P,302.0,P302P,nucleocapsid phosphoprotein,ORF9; structural protein
+29224,29215,1,101,0,0,0,0,C,C,99.01960784313727,A,CDS,TTC,F,TTA,L,314.0,F314L,nucleocapsid phosphoprotein,ORF9; structural protein
+29227,29218,0,99,0,3,0,0,C,C,97.05882352941177,T,CDS,TTC,F,TTT,F,315.0,F315F,nucleocapsid phosphoprotein,ORF9; structural protein
+29248,29239,1,0,89,8,0,4,G,G,90.81632653061224,T,CDS,ATG,M,ATT,I,322.0,M322I,nucleocapsid phosphoprotein,ORF9; structural protein
+29306,29297,101,0,0,1,0,0,A,A,99.01960784313727,T,CDS,AAA,K,TAA,*,342.0,K342*,nucleocapsid phosphoprotein,ORF9; structural protein
+29320,29311,0,100,0,2,0,0,C,C,98.0392156862745,T,CDS,TTC,F,TTT,F,346.0,F346F,nucleocapsid phosphoprotein,ORF9; structural protein
+29376,29367,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,CCA,P,CTA,L,365.0,P365L,nucleocapsid phosphoprotein,ORF9; structural protein
+29393,29384,0,0,100,2,0,0,G,G,98.0392156862745,T,CDS,GAC,D,TAC,Y,371.0,D371Y,nucleocapsid phosphoprotein,ORF9; structural protein
+29401,29391,101,0,1,0,0,0,A,A,99.01960784313727,G,CDS,AAG,K,AGG,R,373.0,K373R,nucleocapsid phosphoprotein,ORF9; structural protein
+29412,29402,0,0,83,14,0,5,G,G,85.56701030927834,T,CDS,GAT,D,TAT,Y,377.0,D377Y,nucleocapsid phosphoprotein,ORF9; structural protein
+29455,29445,0,70,0,26,0,6,C,C,72.91666666666666,T,CDS,ACT,T,ATT,I,391.0,T391I,nucleocapsid phosphoprotein,ORF9; structural protein
+29496,29486,101,0,0,0,1,0,A,A,99.01960784313727,-,CDS,AAA,K,-AA,,405.0,K405del,nucleocapsid phosphoprotein,ORF9; structural protein
+29530,29520,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,TCA,S,TTA,L,416.0,S416L,nucleocapsid phosphoprotein,ORF9; structural protein
+29613,29603,1,101,0,0,0,0,C,C,99.01960784313727,A,CDS,CTA,L,ATA,I,16.0,L16I,ORF10 protein,
+29669,29659,0,101,0,1,0,0,C,C,99.01960784313727,T,CDS,AAC,N,AAT,N,34.0,N34N,ORF10 protein,
+29676,29666,0,98,0,2,0,2,C,C,98.0,T,CDS,CTC,L,TTC,F,37.0,L37F,ORF10 protein,
+29689,29679,0,100,0,1,0,1,C,C,99.00990099009901,T,3'UTR,,,,,2.0,,,
+29710,29700,100,0,1,0,0,1,A,A,99.00990099009901,G,3'UTR,,,,,9.0,,,
+29725,29715,0,0,95,3,0,4,G,G,96.93877551020408,T,3'UTR,,,,,14.0,,,
+29748,29738,4,97,0,0,0,1,C,C,96.03960396039604,A,stem_loop,GCC,A,GAC,D,4.0,A4D,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29749,29739,0,99,0,3,0,0,C,C,97.05882352941177,T,stem_loop,GCC,A,GCT,A,4.0,A4A,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29752,29742,0,0,96,5,0,1,G,G,95.04950495049505,T,stem_loop,ACG,T,ACT,T,5.0,T5T,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29760,29750,0,97,0,1,4,0,C,C,95.09803921568627,-,stem_loop,ACG,T,A-G,,8.0,T8del,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29761,29751,0,0,98,0,4,0,G,G,96.07843137254902,-,stem_loop,ACG,T,AC-,,8.0,T8del,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29762,29752,101,0,0,0,1,0,A,A,99.01960784313727,-,stem_loop,ATC,I,-TC,,9.0,I9del,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29763,29753,0,0,0,101,1,0,T,T,99.01960784313727,-,stem_loop,ATC,I,A-C,,9.0,I9del,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29764,29754,0,101,0,0,1,0,C,C,99.01960784313727,-,stem_loop,ATC,I,AT-,,9.0,I9del,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29765,29755,0,0,101,0,1,0,G,G,99.01960784313727,-,stem_loop,GAG,E,-AG,,10.0,E10del,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29766,29756,101,0,0,0,1,0,A,A,99.01960784313727,-,stem_loop,GAG,E,G-G,,10.0,E10del,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29767,29757,0,0,101,0,1,0,G,G,99.01960784313727,-,stem_loop,GAG,E,GA-,,10.0,E10del,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29768,29758,0,0,0,101,1,0,T,T,99.01960784313727,-,stem_loop,TGT,C,-GT,,11.0,C11del,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29769,29759,0,0,101,0,1,0,G,G,99.01960784313727,-,stem_loop,TGT,C,T-T,,11.0,C11del,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29772,29762,0,82,0,18,0,2,C,C,82.0,T,stem_loop,ACA,T,ATA,I,12.0,T12I,,"""basepair exception: alignment to the Rfam model implies coordinates 29740:29758 form a noncanonical C:T basepair, but the homologous positions form a highly conserved C:G basepair in other viruses, including SARS (NC_004718.3)"""
+29779,29769,0,99,0,3,0,0,C,C,97.05882352941177,T,3'UTR,,,,,32.0,,,
+29832,29822,0,0,2,97,0,3,T,T,97.97979797979798,G,3'UTR,,,,,50.0,,,
